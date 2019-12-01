@@ -5,7 +5,7 @@ Emojis are extensively used and are the evolution of character-based emoticons (
 ## Included Files
 **data_grab.py** - Used for scraping real-time tweets and could be setted to different emoji for searching if tweets including the specific emoji.\
 **adding_label.py** - After saving the real-time tweets to local machine, we transforming each emoji into specific number and remove emoji in each tweet, adn remove all non-English tweets in our dataset.\
-**data_clean.py** - Used this step to clean and remove all unexpected characters, stopping words, and punctuations. Meanwhile, we exclude the tweets with words count less than 5.\
+**data_clean.py** - Used this step to clean and remove all unexpected characters, stopping words, and punctuations. Meanwhile, we exclude the tweets with words count less than 5. \
 
 
 
